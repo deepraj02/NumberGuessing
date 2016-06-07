@@ -13,7 +13,7 @@ c=(int(c))
 maxsc = 1500
 maxsc =(int(maxsc))
 print("You Will Win If You Get In The First Time With Score:1500.Good Luck :) ")
-#inrandomint = input random integer and i have changed to integer
+#inrandomint = input random integer anddddddddddddddddd i have changed to integer
 inrandomint=int((input("Guess: ")))
 if inrandomint == randomint:
     print("Good Job")
